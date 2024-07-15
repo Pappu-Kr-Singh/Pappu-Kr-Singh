@@ -8,7 +8,7 @@ preview
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pappu159687&label=Profile%20views&color=0e75b6&style=flat" alt="pappu159687" /> </p>
 
-- 📫 How to reach me **pappu.singh159678@gmail.com**
+- 📫 How to reach me **pappu.singh159687@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
